@@ -1,0 +1,5 @@
+{
+  "name": "Liver Fibrosis Evaluator (HBV)",
+  "description": "เครื่องมือประเมินพังผืดตับสำหรับผู้ป่วยไวรัสตับอักเสบบีเรื้อรัง (APRI & FIB-4)",
+  "requestFramePermissions": []
+}
